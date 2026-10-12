@@ -1,8 +1,8 @@
-# PixelPerfekt
+# Digital Tasbih - Mobile App
 
 Landing page for **Digital Tasbih**, a minimal tasbih counter with collectible themes, streaks and achievements, by PixelPerfekt.
 
-- Website: https://pixelperfekt.ca
+- Website: https://digitaltasbih.ca
 - Android: [Digital Tasbih on Google Play](https://play.google.com/store/apps/details?id=com.pixelperfekt.digitaltasbih)
 - iOS: coming soon
 
